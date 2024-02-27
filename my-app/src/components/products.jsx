@@ -10,6 +10,7 @@ const products = [
     image: IMG1,
     name: 'Tide Powder',
     description: 'Tide is an American brand of laundry detergent manufactured and marketed by Procter & Gamble. Introduced in 1946, it is the highest-selling detergent brand in the world.',
+    button:'Buy Now'
   },
   {
     id: 2,
