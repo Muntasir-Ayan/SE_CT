@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  /* Container for the entire application */
+  .app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Set minimum height for full viewport */
+  }
+  
+  /* Main content section */
+  .main-content {
+    flex: 1; /* Allow content to fill remaining space */
+    padding: 20px;
+  }
+  
+  /* Heading */
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Placeholder content */
+  .placeholder {
+    text-align: center;
+    font-size: 18px;
+  }
+  
